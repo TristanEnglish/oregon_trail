@@ -1,0 +1,30 @@
+Kansas River Crossing
+ 	102mi
+Big Blue River Crossing
+ 	185mi
+Fort Kearney
+ 	304mi
+Chimney Rock
+ 	554mi
+Fort Laramie
+ 	640mi
+Independence Rock
+ 	830mi
+South Pass
+ 	932mi
+Fort Bridger
+ 	989mi
+Green River Crossing
+ 	1151mi
+Soda Springs
+ 	1295mi
+Fort Hall
+ 	1395mi
+Snake River Crossing
+ 	1534mi
+Fort Boise
+ 	1648mi
+Blue Mountains
+ 	1808mi
+Fort Walla Walla
+ 	1863mi

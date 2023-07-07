@@ -1,0 +1,4 @@
+Leader name: Tristan
+Miles Traveled: 541
+Food Remaining: 0 lbs
+Cash Remaining: $432
